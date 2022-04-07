@@ -13,7 +13,22 @@ A dual sided lightsheet based on [open SPIM](https://openspim.org/) design.
 640 Laser | Coherent Cube 640 nm 40 mW
 
 ### Optics
-TBD
+Achromatic Doublet f = 25 mm
+Achromatic Doublet f = 50 mm
+
+Plano-Convex Cylindrical Lens f = 75 mm
+
+Obj1,2 | Olympus 
+Obj3 | Olympus
+
+DM1 | 
+DM2 |
+DM3 |
+
+FW1 |
+FW2 |
+FW3 |
+FW4 |
 
 ### Camera
 CAM | IRIS 15 Photometrics SCMOS   
