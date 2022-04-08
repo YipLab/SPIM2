@@ -27,7 +27,7 @@ DM3 | 427 nm LP Dichroic
 
 FW1 | 438-520 nm; 570-645 nm BP filter  
 FW2 | 522-580 nm; 665-693 nm BP filter  
-FW3 | 518 nm-32 nm BP filter 
+FW3 | 518 nm-32 nm BP filter  
 FW4 | 165 nm-45 nm BP filter  
 
 ### Camera
