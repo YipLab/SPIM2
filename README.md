@@ -18,17 +18,17 @@ Achromatic Doublet f = 50 mm
 
 Plano-Convex Cylindrical Lens f = 75 mm
 
-Obj1,2 | Olympus 
-Obj3 | Olympus
+Obj1,2 | Olympus UPlanFL N 10x/0.3
+Obj3 | Olympus UMPlanFL N 20x
 
 DM1 | 
-DM2 |
-DM3 |
+DM2 | 
+DM3 | 427 nm LP Dichroic
 
-FW1 |
-FW2 |
-FW3 |
-FW4 |
+FW1 | 438-520 nm; 570-645 nm BP filter  
+FW2 | 522-580 nm; 665-693 nm BP filter  
+FW3 | 518 nm-32 nm BP filter 
+FW4 | 165 nm-45 nm BP filter
 
 ### Camera
 CAM | IRIS 15 Photometrics SCMOS   
