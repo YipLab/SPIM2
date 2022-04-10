@@ -2,7 +2,7 @@
 
 A dual sided lightsheet based on [open SPIM](https://openspim.org/) design.  
 
-![System Schematic](/images/schematic.png)
+![System Schematic](/Images/Schematic.png)
 
 ## Components
 
