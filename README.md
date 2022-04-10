@@ -13,10 +13,10 @@ A dual sided lightsheet based on [open SPIM](https://openspim.org/) design.
 640 Laser | Coherent Cube 640 nm 40 mW
 
 ### Optics
-L1, L4, L5, L8 | Achromatic Doublet f = 25 mm ([AC127-025-A-ML].(https://www.thorlabs.com/thorproduct.cfm?partnumber=AC127-025-A-ML))  
-L2, L3, L6, L7 | Achromatic Doublet f = 50 mm (AC127-050-A-ML)  
+L1, L4, L5, L8 | Achromatic Doublet f = 25 mm ([AC127-025-A-ML](https://www.thorlabs.com/thorproduct.cfm?partnumber=AC127-025-A-ML))  
+L2, L3, L6, L7 | Achromatic Doublet f = 50 mm ([AC127-050-A-ML](https://www.thorlabs.com/thorproduct.cfm?partnumber=AC127-050-A-ML))  
 
-CL1, 2 | Plano-Convex Cylindrical Lens f = 75 mm
+CL1, 2 | Plano-Convex Cylindrical Lens f = 75 mm ([LJ1703RM-A](https://www.thorlabs.com/thorproduct.cfm?partnumber=LJ1703RM-A))
 
 Obj1,2 | Olympus UPlanFL N 10x/0.30    
 Obj3 | Olympus UMPlanFL N 20x/0.40    
@@ -31,7 +31,7 @@ FW3 | 518 nm-32 nm BP filter
 FW4 | 165 nm-45 nm BP filter  
 
 ### Camera
-CAM | IRIS 15 Photometrics SCMOS   
+CAM | [IRIS 15](https://www.photometrics.com/products/iris-family/iris15) Photometrics SCMOS   
 
 ### Software
 Micromanager 2.0-gamma
