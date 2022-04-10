@@ -13,10 +13,10 @@ A dual sided lightsheet based on [open SPIM](https://openspim.org/) design.
 640 Laser | Coherent Cube 640 nm 40 mW
 
 ### Optics
-Achromatic Doublet f = 25 mm ()
-Achromatic Doublet f = 50 mm ()
+L1, L4, L5, L8 | Achromatic Doublet f = 25 mm ([AC127-025-A-ML].(https://www.thorlabs.com/thorproduct.cfm?partnumber=AC127-025-A-ML))  
+L2, L3, L6, L7 | Achromatic Doublet f = 50 mm (AC127-050-A-ML)  
 
-Plano-Convex Cylindrical Lens f = 75 mm
+CL1, 2 | Plano-Convex Cylindrical Lens f = 75 mm
 
 Obj1,2 | Olympus UPlanFL N 10x/0.30    
 Obj3 | Olympus UMPlanFL N 20x/0.40    
