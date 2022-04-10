@@ -21,8 +21,8 @@ CL1, 2 | Plano-Convex Cylindrical Lens f = 75 mm ([LJ1703RM-A](https://www.thorl
 Obj1,2 | Olympus UPlanFL N 10x/0.30    
 Obj3 | Olympus UMPlanFL N 20x/0.40    
 
-DM1 | 
-DM2 | 
+DM1 |  
+DM2 |   
 DM3 | 427 nm LP Dichroic  
 
 FW1 | 438-520 nm; 570-645 nm BP filter  
